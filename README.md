@@ -1,4 +1,6 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=50&duration=2000&pause=500&color=F79715&center=true&vCenter=true&width=600&height=70&lines=Luiz+Gustavo's+Profile" alt="Typing SVG" /></a></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=50&pause=1500&color=F79715&center=true&vCenter=true&width=600&height=70&lines=Luiz+Gustavo's+Profile" alt="Typing SVG" /></div>
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&repeat=false&color=F79715&center=true&vCenter=true&width=435&lines=Currently+i'm+studying%3A+React.js" alt="Typing SVG" /></div>
 
 <h2 align="center">Knowledge</h2>
 <p align="center">

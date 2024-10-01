@@ -2,14 +2,14 @@
 
 <h1 align="center" color="F79715">Knowledge</h1>
 <p align="center">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white">
-    <img src="https://img.shields.io/badge/Node.js-FF9900?style=flat&logo=nodedotjs&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
 </p>
 
 <h2 align='center'>Social media</h2>

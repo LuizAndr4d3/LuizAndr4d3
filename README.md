@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=50&duration=2000&pause=500&color=F79715&background=000000&center=true&vCenter=true&width=600&height=70&lines=Luiz+Gustavo's+Profile)](https://git.io/typing-svg)
+<div align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=50&duration=2000&pause=500&color=F79715&background=000000&center=true&vCenter=true&width=600&height=70&lines=Luiz+Gustavo's+Profile)](https://git.io/typing-svg)
+</div>
 
 ```java
 public class Main {

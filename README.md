@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Luiz_Gustavo!;I+studying+system+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=50&duration=2000&pause=500&color=F79715&background=000000&center=true&vCenter=true&width=600&height=70&lines=Luiz+Gustavo's+Profile)](https://git.io/typing-svg)
 
 ```java
 public class Main {

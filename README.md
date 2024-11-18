@@ -16,7 +16,7 @@
 
 <h2 align="center">Projects</h2>
 <h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="20" width="20"> React Projects</h3>
-<h4>Bisection Method Calculator in React.js</h4><br>
+<h4>Bisection Method Calculator in React.js</h4>
 <p>This project is a web application built with React.js that allows users to calculate the root of a mathematical function using the Bisection Method. The application provides an interactive interface where users can input a mathematical function, specify the number of iterations, and set the initial interval values.</p>
 <p align="center"><a href="https://github.com/LuizAndr4d3/React/tree/main/Projetos/Projeto_Calculo"><img align="center" src="https://img.shields.io/badge/Click%20Here-61DAFB?style=flat&logo=react&logoColor=white" height="25"></a></p>
 <h4>Projeto 2</h4><br>

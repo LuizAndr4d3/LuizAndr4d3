@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" height="25">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
+    <img src="https://img.shields.io/badge/Supabase-%2300C49F.svg?style=for-the-badge&logo=supabase&logoColor=white" height="25">
 </p>
 
 <h2 align="center">Projects</h2>

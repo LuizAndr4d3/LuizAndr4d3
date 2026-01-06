@@ -1,85 +1,38 @@
-# Hello, I'm Luiz Gustavo! 👋
+# Hello, I'm Luiz Gustavo
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizAndr4d3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAndr4d3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-  
-</div>
+Welcome to my GitHub profile! I'm a passionate developer focused on creating innovative solutions through code. I love working with modern technologies and am always eager to learn something new.
 
-## 🚀 About Me
+## About Me
 
-Passionate developer who loves technology, always seeking to learn and create innovative solutions. Focused on full-stack development and machine learning, transforming ideas into quality code.
+I'm a full-stack developer with a strong interest in machine learning and artificial intelligence. I enjoy building robust applications, from backend APIs to frontend interfaces, and I'm particularly fascinated by the potential of neural networks and deep learning.
 
-## 🛠️ Technologies & Tools
+When I'm not coding, I'm usually exploring new technologies, contributing to open-source projects, or working on personal projects that challenge me to grow as a developer.
 
-### Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+## Technologies I Work With
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Backend:**
+- C# & ASP.NET
+- Node.js & TypeScript
+- Python (Flask, Django, FastAPI)
 
-### Machine Learning & AI
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=brain&logoColor=white)
+**Frontend:**
+- React
 
-## 📊 GitHub Stats
+**Machine Learning & AI:**
+- Machine Learning
+- Neural Networks
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizAndr4d3&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-  
-</div>
+## Featured Projects
 
-## 💼 Featured Projects
+- **[Dogs API](https://github.com/LuizAndr4d3/dogs-api)** - A RESTful API built with NestJS and TypeScript for managing dog data
 
-- 🐕 **[Dogs API](https://github.com/LuizAndr4d3/dogs-api)** - RESTful API built with NestJS and TypeScript
-- 🔥 More projects coming soon...
+## Get in Touch
 
-## 📈 GitHub Activity
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out!
 
-<div align="center">
-  
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizAndr4d3&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-  
-</div>
-
-## 🎯 Interests
-
-- 💻 Full-Stack Development
-- 🤖 Machine Learning & Artificial Intelligence
-- 🧠 Neural Networks & Deep Learning
-- 🚀 RESTful APIs & Microservices
-- 📱 Modern Web Development
-
-## 📫 How to Reach Me
-
-- 💼 [LinkedIn](https://linkedin.com/in/LuizAndr4d3)
-- 📧 Email: your.email@example.com *(add your email)*
-- 🌐 Portfolio: https://your-portfolio.com *(add your link)*
-
-## 📚 Language Statistics
-
-<div align="center">
-  
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAndr4d3&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-  
-</div>
+- **LinkedIn:** [LuizAndr4d3](https://linkedin.com/in/LuizAndr4d3)
+- **GitHub:** [@LuizAndr4d3](https://github.com/LuizAndr4d3)
 
 ---
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/LuizAndr4d3/LuizAndr4d3/blob/output/github-contribution-grid-snake.svg)
-  
-  <p>⭐️ If you liked what you saw, consider giving a star to my repositories! ⭐️</p>
-  
-</div>
+Thanks for visiting my profile! If you find any of my projects interesting, feel free to star them or open an issue if you have suggestions.

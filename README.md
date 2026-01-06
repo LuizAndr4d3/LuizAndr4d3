@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuizAndr4d3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAndr4d3&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
   
 </div>
 
@@ -35,13 +35,13 @@ Passionate developer who loves technology, always seeking to learn and create in
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuizAndr4d3&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
   
 </div>
 
 ## 💼 Featured Projects
 
-- 🐕 **[Dogs API](https://github.com/YOUR_USERNAME/dogs-api)** - RESTful API built with NestJS and TypeScript
+- 🐕 **[Dogs API](https://github.com/LuizAndr4d3/dogs-api)** - RESTful API built with NestJS and TypeScript
 - 🔥 More projects coming soon...
 
 ## 📈 GitHub Activity
@@ -62,7 +62,7 @@ Passionate developer who loves technology, always seeking to learn and create in
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(add your link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-andrade7/) *(add your link)*
 - 📧 Email: your.email@example.com *(add your email)*
 - 🌐 Portfolio: https://your-portfolio.com *(add your link)*
 
@@ -70,7 +70,7 @@ Passionate developer who loves technology, always seeking to learn and create in
 
 <div align="center">
   
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizAndr4d3&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
   
 </div>
 
@@ -78,7 +78,7 @@ Passionate developer who loves technology, always seeking to learn and create in
 
 <div align="center">
   
-  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuizAndr4d3/LuizAndr4d3/blob/output/github-contribution-grid-snake.svg)
   
   <p>⭐️ If you liked what you saw, consider giving a star to my repositories! ⭐️</p>
   

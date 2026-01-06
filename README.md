@@ -1,42 +1,85 @@
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&size=50&pause=1500&color=0ccc3f&center=true&vCenter=true&width=600&height=70&lines=Luiz+Gustavo's+Profile" alt="Typing SVG" /></div>
+# Hello, I'm Luiz Gustavo! 👋
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&repeat=false&color=0ccc3f&center=true&vCenter=true&width=435&lines=Currently+i'm+studying%3A+Django" alt="Typing SVG" /></div>
+<div align="center">
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+  
+</div>
 
-<h2 align="center">Knowledge</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/Supabase-%2300C49F.svg?style=for-the-badge&logo=supabase&logoColor=white" height="25">
-    <img src="https://img.shields.io/badge/FlutterFlow-blue?logo=flutter?style=for-the-badge&logo=supabase&logoColor=white" height="25">
-</p>
+## 🚀 About Me
 
-<h2 align="center">Projects</h2>
-<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="20" width="20"> React Projects</h3>
-<h4>Bisection Method Calculator in React.js</h4>
-<p>This project is a web application built with React.js that allows users to calculate the root of a mathematical function using the Bisection Method. The application provides an interactive interface where users can input a mathematical function, specify the number of iterations, and set the initial interval values.</p>
-<p align="center"><a href="https://github.com/LuizAndr4d3/React/tree/main/Projetos/Projeto_Calculo"><img align="center" src="https://img.shields.io/badge/Click%20Here-61DAFB?style=flat&logo=react&logoColor=white" height="25"></a></p>
-<h4>Projeto 2</h4><br>
-<p align="center"><a href=""><img align="center" src="https://img.shields.io/badge/Click%20Here-61DAFB?style=flat&logo=react&logoColor=white" height="25"></a></p>
-<h4>Projeto 3</h4><br>
-<p align="center"><a href=""><img align="center" src="https://img.shields.io/badge/Click%20Here-61DAFB?style=flat&logo=react&logoColor=white" height="25"></a></p>
+Passionate developer who loves technology, always seeking to learn and create innovative solutions. Focused on full-stack development and machine learning, transforming ideas into quality code.
 
-<h3><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="20" width="20"> Python Projects</h3>
-<h4>Projeto 1</h4><br>
-<p align="center"><a href=""><img align="center" src="https://img.shields.io/badge/Click%20Here-3776AB?style=flat&logo=python&logoColor=white" height="25"></a></p>
-<h4>Projeto 2</h4><br>
-<p align="center"><a href=""><img align="center" src="https://img.shields.io/badge/Click%20Here-3776AB?style=flat&logo=python&logoColor=white" height="25"></a></p>
-<h4>Projeto 3</h4><br>
-<p align="center"><a href=""><img align="center" src="https://img.shields.io/badge/Click%20Here-3776AB?style=flat&logo=python&logoColor=white" height="25"></a></p>
-<br>
-<h2 align='center'>Social media</h2>
-<p align='center'>
-    <a href="https://www.linkedin.com/in/luiz-andrade7/"><img src='https://cdn-icons-png.flaticon.com/128/3536/3536505.png' width="25" height="25"></a>
-    <a href="https://www.instagram.com/luiz_guusta/?next=%2F"><img src='https://cdn-icons-png.flaticon.com/128/2111/2111463.png' width="25" height="25"></a>
-</p>
+## 🛠️ Technologies & Tools
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Machine Learning & AI
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-FF6F00?style=for-the-badge&logo=brain&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+  
+</div>
+
+## 💼 Featured Projects
+
+- 🐕 **[Dogs API](https://github.com/YOUR_USERNAME/dogs-api)** - RESTful API built with NestJS and TypeScript
+- 🔥 More projects coming soon...
+
+## 📈 GitHub Activity
+
+<div align="center">
+  
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+  
+</div>
+
+## 🎯 Interests
+
+- 💻 Full-Stack Development
+- 🤖 Machine Learning & Artificial Intelligence
+- 🧠 Neural Networks & Deep Learning
+- 🚀 RESTful APIs & Microservices
+- 📱 Modern Web Development
+
+## 📫 How to Reach Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(add your link)*
+- 📧 Email: your.email@example.com *(add your email)*
+- 🌐 Portfolio: https://your-portfolio.com *(add your link)*
+
+## 📚 Language Statistics
+
+<div align="center">
+  
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+  
+  <p>⭐️ If you liked what you saw, consider giving a star to my repositories! ⭐️</p>
+  
+</div>

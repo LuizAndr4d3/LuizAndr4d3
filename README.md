@@ -48,7 +48,7 @@ Passionate developer who loves technology, always seeking to learn and create in
 
 <div align="center">
   
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LuizAndr4d3&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
   
 </div>
 
@@ -62,7 +62,7 @@ Passionate developer who loves technology, always seeking to learn and create in
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-andrade7/) *(add your link)*
+- 💼 [LinkedIn](https://linkedin.com/in/LuizAndr4d3)
 - 📧 Email: your.email@example.com *(add your email)*
 - 🌐 Portfolio: https://your-portfolio.com *(add your link)*
 

@@ -6,7 +6,7 @@
 
 Passionate about building innovative solutions and exploring the intersection of software development and artificial intelligence.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuizAndr4d3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-andrade7/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAndr4d3)
 
 </div>
@@ -89,7 +89,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuizAndr4d3-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LuizAndr4d3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LuizAndr4d3-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-andrade7/)
 [![GitHub](https://img.shields.io/badge/GitHub-LuizAndr4d3-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuizAndr4d3)
 
 </div>

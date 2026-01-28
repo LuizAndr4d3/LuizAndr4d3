@@ -25,10 +25,11 @@ When I'm not coding, you'll find me learning about new technologies, contributin
 
 ### Backend Development
 <div>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?&logo=NestJS&logoColor=white" alt="Nest.js" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
@@ -51,11 +52,25 @@ When I'm not coding, you'll find me learning about new technologies, contributin
 ## Featured Projects
 
 ### Dogs API
-A RESTful API built with NestJS and TypeScript for managing dog data. Features include CRUD operations, DTO validation, and JSON-based storage.
+A RESTful API built with NestJS and TypeScript for managing dog data. Features include CRUD operations, JWT authentication, DTO validation, and JSON-based storage.
 
 **Tech Stack:** NestJS, TypeScript, Node.js
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/dogs-api)
+
+### Scraping Books API
+RESTful API built with NestJS and TypeScript for web scraping books from [Books To Scrape](https://books.toscrape.com/). Features include searching books, filtering by categories, pagination, and detailed book information.
+
+**Tech Stack:** NestJS, TypeScript, Node.js, Axios, Cheerio
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/scrapping-books-api)
+
+### FocusFlow API
+RESTful API built with NestJS and TypeScript for tracking deep work spaces and focus sessions. Features include spaces management, session tracking with metrics (energy level, focus score, duration), advanced filtering by space, date range, or tags, and comprehensive input validation.
+
+**Tech Stack:** NestJS, TypeScript, Node.js
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/focusFlowApi)
 
 ---
 

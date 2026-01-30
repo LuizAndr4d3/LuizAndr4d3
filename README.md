@@ -72,6 +72,13 @@ RESTful API built with NestJS and TypeScript for tracking deep work spaces and f
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/focusFlowApi)
 
+### Task Manager
+Web application built with Django for personal task management and organization. Features include user authentication, full CRUD operations for tasks, status tracking (Pending, In Progress, Completed), priority levels (Low, Medium, High), due date management with overdue indicators, and advanced search and filtering capabilities. Includes a responsive, modern UI built with Bootstrap 5.
+
+**Tech Stack:** Django, Python, Bootstrap 5, SQLite
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/taskmanager)
+
 ---
 
 ## What I'm Working On

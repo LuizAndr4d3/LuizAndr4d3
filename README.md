@@ -79,6 +79,13 @@ Web application built with Django for personal task management and organization.
 
 [![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/taskmanager)
 
+### News Scraper API
+REST API built with Flask for extracting news articles from websites using web scraping techniques. Features include automatic article detection with intelligent link filtering, custom CSS selector support for targeted extraction, Clean Architecture implementation with separated domain, use cases, infrastructure, and presentation layers, comprehensive error handling, and support for multiple news sources including Hacker News, BBC News, and Reddit. The API extracts article titles, links, descriptions, images, and publication dates, with configurable limits for article retrieval.
+
+**Tech Stack:** Flask, Python, BeautifulSoup4, Requests
+
+[![View Project](https://img.shields.io/badge/View%20Project-GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/LuizAndr4d3/news-scraper)
+
 ---
 
 ## What I'm Working On
